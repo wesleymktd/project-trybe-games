@@ -117,7 +117,7 @@ public class TrybeGamesController
         }
     }
 
-    // 1. Crie a funcionalidde para adicionar uma nova pessoa jogadora ao banco de dados
+    // 1. Crie a funcionalidade para adicionar uma nova pessoa jogadora ao banco de dados
     public void AddPlayer()
     {
         // implementar
