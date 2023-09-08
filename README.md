@@ -1,13 +1,36 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## 🧐 Sobre
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+<p align="left"> 
+O Rend Car é um projeto de natureza acadêmica do tipo console onde tem o objetivo de gerenciar e armazenar dados de jogos jogados pela pessoa usuária. Nessa aplicação é possível:
+- Adicionar uma nova pessoa jogadora ao banco de dados
+- Adicionar um novo estúdio de jogos ao banco de dados
+- adicionar novo Jogo ao Banco de dados
+- buscar jogos desenvolvidos por um estúdio de jogos
+- buscar jogos jogados por uma pessoa jogadora
+- buscar jogos comprados por uma pessoa jogadora
+- buscar todos os jogos junto do nome do estúdio desenvolvedor
+- buscar todos os diferentes Tipos de jogos dentre os jogos cadastrados
+- buscar todos os estúdios de jogos junto dos seus jogos desenvolvidos com suas pessoas jogadoras 
+<p/>
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## ⚒ Instalando <a name = "installing"></a>
+
+```bash
+# Clone o projeto
+$ git clone git@github.com:wesleymktd/project-trybe-games.git
+# Acesse
+$ cd ./project-trybe-games/src
+# Instale as dependencias
+$ dotnet restore
+# Inicie o projeto
+dotnet run
+
+```
+## ⚒ Executando os testes automatizados <a name = "installing"></a>
+
+```bash
+# execute o comando `dotnet test` dentro da pasta src
+```
+## Principais tecnologias utilizadas:
+- C#;
+- .NET
