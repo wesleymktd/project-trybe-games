@@ -1,7 +1,7 @@
 ## 🧐 Sobre
 
 <p align="left"> 
-O Rend Car é um projeto de natureza acadêmica do tipo console onde tem o objetivo de gerenciar e armazenar dados de jogos jogados pela pessoa usuária. Nessa aplicação é possível:
+O Trybe Games é um projeto de natureza acadêmica do tipo console onde tem o objetivo de gerenciar e armazenar dados de jogos jogados pela pessoa usuária. Nessa aplicação é possível:
 - Adicionar uma nova pessoa jogadora ao banco de dados
 - Adicionar um novo estúdio de jogos ao banco de dados
 - adicionar novo Jogo ao Banco de dados
